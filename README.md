@@ -1,8 +1,8 @@
 # SVM-Model-House-pricing
-##DATASET:
+## DATASET:
 The "Social Network Ads" dataset contains information about individual users and their interactions with social network advertising. The dataset includes user attributes, such as age and estimated salary, as well as whether each user purchased a product or not. And the dataset contains 400 rows and 5 columns.
 
-##RESULTS :
+## RESULTS :
 our model achieved 0.80 accuracy then with scaler
 function, we improved the performance to 0.93, which enhanced
 our model.
