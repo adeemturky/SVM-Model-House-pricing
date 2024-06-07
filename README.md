@@ -26,3 +26,5 @@ zero and 4 means predicted false as class one, which is quite
 good.
 
 ## PRESENTATION
+[SVM MODEL.pdf](https://github.com/user-attachments/files/15735387/SVM.MODEL.pdf)
+
